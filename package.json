@@ -1,0 +1,24 @@
+{
+  "name": "spotlist",
+  "version": "0.0.1",
+  "description": "generate spotify playlist from list of songs",
+  "main": "coffee index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bentona/spotlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bentona/spotlist/issues"
+  },
+  "homepage": "https://github.com/bentona/spotlist#readme",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "lodash": "^3.10.0",
+    "request": "^2.60.0"
+  }
+}
